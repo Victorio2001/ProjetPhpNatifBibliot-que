@@ -13,7 +13,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "php vendor/bin/phpunit src/Test/UtilisateurTest.php src/Test/LivreTest.php src/Test/LIvreUtilisateurTest.php src/Test/EditeurTest.php "
+    "test": "php vendor/bin/phpunit src/TestPhpUnits/UtilisateurTest.php src/TestPhpUnits/LivreTest.php src/TestPhpUnits/LIvreUtilisateurTest.php src/TestPhpUnits/EditeurTest.php "
   },
   "repository": {
     "type": "git",

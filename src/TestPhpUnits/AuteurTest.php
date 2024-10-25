@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace MonApp\Test;
+namespace MonApp\TestPhpUnits;
 
 require_once __DIR__ . '/../../config/localConfig.php';
 

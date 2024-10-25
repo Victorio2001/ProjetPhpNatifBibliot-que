@@ -30,9 +30,6 @@ if (isset($_SESSION['userLog'])){
                 <li class="nav-item">
                     <a class="nav-link" href="../../src/view/listeReservationPage.php">Vos Réservations</a>
                 </li>
-                 <li class="nav-item">
-                    <a class="nav-link" href="../../src/view/tpCyber/tp1.php">tp1</a>
-                </li>
                 ';
                 }
                 ?>

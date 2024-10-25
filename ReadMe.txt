@@ -1,5 +1,7 @@
-composer dump-autoload => pour actualiser/reload son composer.json
+/* Pour se connecter lancer le fichier "les4fantastiques\src\TestDao.php\TestDaoUtilisateur.php"
+
 composer install
+composer dump-autoload => pour actualiser/reload son composer.json
 composer require --dev phpunit/phpunit
 composer require phpmailer/phpmailer
 yarn install (si packs)
